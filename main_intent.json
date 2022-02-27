@@ -2,9 +2,9 @@
   [
     {
       "tag":"greeting",
-      "input":["hello","hi there","nice to meet you","hi, is this is the pirate's organization","any pirates here ?","hi","hey there","hey","hi there","hi, nice to meet you","hello there","anyone there ?","hello pirates","knock knock"],
+      "input":["hello","hi there","nice to meet you","hi, is this is the Jeremi's thought organization","any wisdom here ?","hi","hey there","hey","hi there","hi, nice to meet you","hello there","anyone there ?","hello to you","knock knock"],
       "responses":[
-          "Hi. Welcome to the world's largest pirate organization - The Strawhats",
+          "Hi. Welcome to the world's largest club organization",
           "Hey yo, do you need help ?",
           "welcome aboard, how may I help you ?",
           "ahoy!!",
@@ -67,7 +67,7 @@
     },
     {
       "tag":"join",
-      "input":["how to get recruited ?","how to join ?","how do i get recruited ?","How to join the strawhats ?","how do I join the straw hats ?","how to join the straw hat pirates ?","how to enroll","how to join the organization","steps to join the organization","steps to join the pirates"],
+      "input":["how to get recruited ?","how to join ?","how do i get recruited ?","How to join the strawhats ?","how do I join the straw hats ?","how to join the club# ?","how to enroll","how to join the organization","steps to join the organization","steps to join the club"],
       "responses":[
 
         "you need to contact the nearest straw hats center once you have completed the pre-requisites",
@@ -91,7 +91,7 @@
       "input":["what are the job requirements ?","what are the pre requisites ?","what are the pre-requisites ?","tell me about the pre-requisites","tell me more about the pre requisites","give more details about the pre-requisites","What are the requirements"," what's the basic requirements","what are the basic skills to get recruited ?"],
       "responses":[
         "you gotta master the art of swordfight or master Cooking and become a furious cook or you have to be the best navigator in the entire world or you need to be as strong and intelligent as god usop",
-        "swordsman, a medical reindeer, taekwando Cook, master navigator, simple minded monkey, highly intelligent strategist, god usop. you gotta be one of these things to pass the requirement and join the pirates"
+        "swordsman, a medical reindeer, taekwando Cook, master navigator, simple minded monkey, highly intelligent strategist, god usop. you gotta be one of these things to pass the requirement and join the club"
       ]
     },
           {
