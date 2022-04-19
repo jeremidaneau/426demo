@@ -1,1 +1,1 @@
-#Data for scholl
+#Data for school
